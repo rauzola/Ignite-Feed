@@ -37,8 +37,8 @@ Projeto foi desenvolvido em cima de uma aplicação React ultilizando o Vite, co
 ```bash
 # Clone este repositório para a pasta anterior
 $ git clone https://github.com/rauzola/Ignite-Feed
-# Acesse a pasta IgniteFeed
-$ cd IgniteFeed
+# Acesse a pasta Ignite-Feed
+$ cd Ignite-Feed
 # Instale as dependências
 $ yarn install
 ou
